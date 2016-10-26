@@ -1,4 +1,4 @@
-require "./lib/fizzbuzz"
+require "fizzbuzz"
 
 describe 'fizzbuzz' do #given fizzbuzz method
   it 'returns "fizz" when passed 3' do #when we pass a number (3)
